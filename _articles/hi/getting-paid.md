@@ -94,7 +94,7 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 
 अपनी व्यक्तिगत परिस्थितियों के आधार पर, आप अपने ओपन सोर्स कार्य के वित्तपोषण के लिए स्वतंत्र रूप से धन जुटाने का प्रयास कर सकते हैं। उदाहरण के लिए:
 
-* @Homebrew (और [many other maintainers and organizations](https://github.com/sponsors/community)) [GitHub Sponsors](https://github.com/sponsors) के माध्यम से उनके काम को वित्तपोषित करें
+* @Homebrew (और [कई अन्य अनुरक्षक और संगठन](https://github.com/sponsors/community)) [GitHub Sponsors](https://github.com/sponsors) के माध्यम से उनके काम को वित्तपोषित करें
 * @gaearon उसके काम को वित्त पोषित किया [Redux](https://github.com/reactjs/redux) पर, और [Patreon crowdfunding campaign](https://redux.js.org/) के जरिए
 * @andrewgodwin स्कीमा माइग्रेशन पर वित्त पोषित कार्य [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
